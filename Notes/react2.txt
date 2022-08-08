@@ -1,0 +1,15 @@
+axios - https request library
+ComponentDidMount()-  lifecycle hookcycle component ....used by using axios library
+
+
+Router parameters:
+-part of url that can change
+-usually see them on urls for individual records
+user profile route
+ ex.    mysite.com/users/praj
+          mysite.com/users/wori
+
+cooking recipe page:
+ex.   mycooking.com/recipes/1234
+        mycooking.com/recipes/4342
+

@@ -1,0 +1,13 @@
+React Basics:
+1.components,events,templates,props & froms
+
+React Router
+1.routes,route parameters, redirects
+
+Redux
+1.stores,actions & redux
+
+Components and Templates
+-Components look like HTML templates (actually JSX)
+- They can contain 'state' (data or ui state)
+- They also can contain javascript for functionality

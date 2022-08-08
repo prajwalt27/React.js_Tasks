@@ -1,0 +1,10 @@
+Reducers: 
+1.reducer function -> interacts with the state/data
+2. Action object-> dispatsh({type:'ADD_BOOK'}
+                      reducer(action,state)-> check the action.type
+                                                         ->update the state object
+                                                          ->return the state
+
+ 
+
+

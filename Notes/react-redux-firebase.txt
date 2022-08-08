@@ -1,0 +1,25 @@
+React-Redux-Firebase
+-React and Redux
+-Thunk
+-Firebase
+   -Firestore, authentication, cloud functions, hosting
+
+
+App(root)
+   -Nav  ->1.Signed in links
+             ->2.signed out links
+   - Dashboard -> /dashboard
+                        ->Project List
+                        ->Notifications
+   -Project Details-> /project/:id
+  -Create Project -> /create
+  -Sign in -> /signin 
+  -signup-> /signup
+
+
+Client/Browser :   React+ Redux
+Server/Firebase: 1.Firestore db 
+                            2.Firebase Auth
+                            3.Cloud Functions
+                                
+

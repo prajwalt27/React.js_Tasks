@@ -1,0 +1,8 @@
+prerequisites to learn react:
+1.var , let ,const , for each, loops, premitive data
+2. functions , arrow functions 
+3. events , handling events
+4. named imports 
+5. default imports
+6. map , filter, reduce
+7.socket 

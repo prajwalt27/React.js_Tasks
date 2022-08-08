@@ -1,0 +1,25 @@
+Context-Hooks
+
+Context Api:- shares data/state within a component tree
+alternative to redux behaviour , when we use along side the hoks it behaves very similar to redux
+
+Accessing context:
+1st way->
+   1.contextType : one of the way to aceess context data
+   2.Destructuring 
+
+2nd way->
+ ContextConsumer
+   1.In this approach we can use functional components
+   2.Also we can compose multiple 
+
+React Hooks
+-special Fucntions
+-allow us to do additionsl things inside functional components
+  e.g. use state
+
+useState()- use within a functional component
+useEffect()- run code whne a component renders or re-renders
+useContext()- consume context in a functional component
+
+uuid package ->to add dynamic ids to data
