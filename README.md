@@ -1,2 +1,2 @@
 # React.js
-Basic Projects
+Basic Projects in Reactjs and Redux
